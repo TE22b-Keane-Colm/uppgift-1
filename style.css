@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+div{
+    border:2px solid red
+}
+.background{
+    background-image: url(snow_winter_trees.jpg);
+}
+.länkar{
+    margin: 5px;
+}
+.mellan{
+    display: flex;
+
+}
+img{
+    max-width: 150px;
+    max-height: 50px;
+}
+.vänster{
+    text-align: center;
+}
